@@ -1,0 +1,20 @@
+img{
+    width: 158px;
+    height: 45px;
+    padding: 10px 5px;
+}
+#basic-nav-dropdown{
+    color: white;
+}
+#basic-navbar-nav a{
+    /* color: white;? */
+    padding: 0px 25px;
+    margin-right: 0px;
+    vertical-align: middle;
+}
+@media (min-width: 992px) {
+    .navbar-expand-lg .navbar-nav {
+        flex-direction: row;
+        margin-right: 80px;
+    }
+}

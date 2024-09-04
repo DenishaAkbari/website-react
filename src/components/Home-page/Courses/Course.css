@@ -1,0 +1,24 @@
+.course-content h1{
+    font-size: 48px;
+    color: #21AD96;
+    font-weight: 700;
+}
+.course-content p{
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: 700;
+}
+.pt-100{
+    padding-top: 100px;
+}
+.pb-100{
+    padding-bottom: 100px;
+}
+.card{
+    background-color: #161821;
+}
+.user-name{
+    font-size: 14px;
+    font-weight: 300;
+    margin-top: 25px;
+}

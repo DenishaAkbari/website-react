@@ -1,0 +1,56 @@
+.accodian{
+    background-color: #161821;
+    padding: 10px;
+}
+.accodian-text{
+    font-size: 15px;
+    font-weight: 500;
+    color: #8B89A2;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.accodian-title{
+    font-size: 48px;
+    font-weight: 500;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.card{
+    border: none;
+    background-color: transparent;
+    /* margin-bottom: 20px; */
+}
+.card:hover{
+    cursor: pointer;
+    box-shadow: 0 0 20px #111;
+    transition: 0.5s;
+}
+.pt-100{
+    padding-top: 100px;
+}
+.pb-100{
+    padding-bottom: 100px;
+}
+.accodian-para{
+    font-size: 14px;
+}
+.accodian-span{
+    font-size: 48px;
+}
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+    cursor: pointer;
+    color: #696969;
+    font-weight: 600;
+}
+.accordion-button:not(.collapsed) {
+    color: #fff;
+    background-color: #21AD96;
+    box-shadow: inset 0 calc(-1* var(--bs-accordion-border-width)) 0 var(--bs-accordion-border-color);
+}
+.accordion-item {
+    color: #fff;
+    background-color: transparent;
+    border: none;
+    
+}
